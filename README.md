@@ -21,6 +21,6 @@
 - `main.css`: Arquivo de estilo para o layout e design do site.
 - `imagem/`: Pasta contendo imagens usadas no site, como logo e imagens dos perfumes.
 
-## Como Executar Localmente
+
 
 
